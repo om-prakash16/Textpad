@@ -1,0 +1,13 @@
+H:\visual studio\Textpad\Textpad\bin\Debug\Textpad.exe.config
+H:\visual studio\Textpad\Textpad\bin\Debug\Textpad.exe
+H:\visual studio\Textpad\Textpad\bin\Debug\Textpad.pdb
+H:\visual studio\Textpad\Textpad\obj\Debug\Textpad.csproj.AssemblyReference.cache
+H:\visual studio\Textpad\Textpad\obj\Debug\Textpad.TextPad.resources
+H:\visual studio\Textpad\Textpad\obj\Debug\Textpad.Properties.Resources.resources
+H:\visual studio\Textpad\Textpad\obj\Debug\Textpad.csproj.GenerateResource.cache
+H:\visual studio\Textpad\Textpad\obj\Debug\Textpad.csproj.CoreCompileInputs.cache
+H:\visual studio\Textpad\Textpad\obj\Debug\Textpad.exe
+H:\visual studio\Textpad\Textpad\obj\Debug\Textpad.pdb
+H:\visual studio\Textpad\Textpad\bin\Debug\logictext.dll
+H:\visual studio\Textpad\Textpad\bin\Debug\logictext.pdb
+H:\visual studio\Textpad\Textpad\obj\Debug\Textpad.csproj.CopyComplete

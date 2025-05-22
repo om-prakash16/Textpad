@@ -1,0 +1,6 @@
+H:\visual studio\Textpad\logictext\bin\Debug\logictext.dll
+H:\visual studio\Textpad\logictext\bin\Debug\logictext.pdb
+H:\visual studio\Textpad\logictext\obj\Debug\logictext.csproj.AssemblyReference.cache
+H:\visual studio\Textpad\logictext\obj\Debug\logictext.csproj.CoreCompileInputs.cache
+H:\visual studio\Textpad\logictext\obj\Debug\logictext.dll
+H:\visual studio\Textpad\logictext\obj\Debug\logictext.pdb

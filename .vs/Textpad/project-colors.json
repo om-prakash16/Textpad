@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9c3ec227-5ee9-47b3-bc08-b6da860c6159": {
+      "ProjectGuid": "9c3ec227-5ee9-47b3-bc08-b6da860c6159",
+      "DisplayName": "Textpad",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
